@@ -1,0 +1,5 @@
+google-cloud-pubsub
+apache-beam
+apache-beam[gcp]
+wheel
+python3.7
